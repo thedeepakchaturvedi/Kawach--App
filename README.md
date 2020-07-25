@@ -1,22 +1,23 @@
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/Sigmahacks.png"></img>
 # SigmaHacks2.0-Kawach
 
 Greetings from  __Team Kawach__,
 
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/Kawach/app/src/main/res/drawable/logokavach.png" height=200 width=200></img>
 
-#We are very delighted to present our idea in _SigmaHacks 2.0_, hope you like it.
-Our idea Kawach, an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.
+##### We are very delighted to present our idea in _SigmaHacks 2.0_, hope you like it. Our idea Kawach, an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.
 
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/Android-PNG-HD.png" height=200 width=200></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/pngegg.png" height=200 width=200></img>
 
-Our app focuses on the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing AR immersive experience while avoiding contact.
-The app will also help the authorities to trace the COVID spread.
+Our app focusses on easing out the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing Augmented Reality(AR) immersive experience in order to avoid contact. Moreover, the app will also help the authorities to trace the COVID spread. Our app requires basic permissions like Bluetooth, device location to work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while they go out.  
 
-
-Our app requires basic permissions like Bluetooth, device location to 
-Work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while out.  
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md1.png" height=200 width=200></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md2.png" height=200 width=200></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md3.png" height=200 width=200></img>
 
 First of all, let’s dive into KawachAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
+
+<video src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/kawach.gif" height=200 width=200></video>
 
 
 The Stores feature of our app helps in linking people with their nearby stores to help local businesses who have incurred losses in these times. So people can avoid contacts and queues. We can also keep track of the open/close status of our local stores and whether they provide home delivery or not.
