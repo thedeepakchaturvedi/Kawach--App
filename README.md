@@ -11,9 +11,9 @@ Greetings from  __Team Kawach__,
 
 Our app focusses on easing out the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing Augmented Reality(AR) immersive experience in order to avoid contact. Moreover, the app will also help the authorities to trace the COVID spread. Our app requires basic permissions like Bluetooth, device location to work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while they go out.  
 
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md1.png" height=500 width=300 hspace=10 border=10></img>
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md2.png" height=500 width=300 border=10></img>
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md3.png" height=500 width=300 hspace=10 border=10></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md1.png" height=450 width=270 hspace=10 border=10></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md2.png" height=450 width=270 border=10></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md3.png" height=450 width=270 hspace=10 border=10></img>
 
 First of all, let’s dive into KawachAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
 
@@ -24,7 +24,7 @@ The Stores feature of our app helps in linking people with their nearby stores t
 
 Besides these features, our app is also of great help to the authorities who are concerned about the COVID spread in their region. The app detects any nearby Kawach user and stores their unique ID  as an entry to the user’s collection in the Firebase database.  In case someone tests positive, this will help in the contact tracing of the individuals and,  a precautionary alert will be sent to all the nearby Kawach Users so that they could exercise maximum restraint. 
 
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md5.png" height=500 width=300></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md5.png" height=500 width=1000></img>
 
 In order to control the onslaught of misinformation, we have equipped the app with a COVID API which gives lives updates of COVID-19 cases both worldwide and country-wide.
 
@@ -32,7 +32,5 @@ In order to control the onslaught of misinformation, we have equipped the app wi
 
 The users can also give feedback, take a survey about his infection status, and edit their profiles as per their volition.
 The users will also be notified if they come near a COVID infected person. Furthermore, the user data will not be stored for more than 14 days which is the maximum time for symptoms to appear as per WHO guidelines.
-
-
 
 
