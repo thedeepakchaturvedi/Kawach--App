@@ -1,1 +1,1 @@
-# SihmaHacks2.0-Kawach-
+# SigmaHacks2.0-Kawach-
