@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 finish();
             }
         }, 2500);
-        /*// Checking access for location
+        // Checking access for location
         int permissionCheck = MainActivity.this.checkSelfPermission("Manifest.permission.ACCESS_FINE_LOCATION");
         permissionCheck += MainActivity.this.checkSelfPermission("Manifest.permission.ACCESS_COARSE_LOCATION");
 
@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
                     finish();
                 }
             }, 2500);
-        }*/
+        }
 
     }
 

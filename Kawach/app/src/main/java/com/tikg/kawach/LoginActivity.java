@@ -168,7 +168,7 @@ public class LoginActivity extends AppCompatActivity {
                             Toast.makeText(LoginActivity.this, "Verification Successful ", Toast.LENGTH_SHORT).show();
                             //Ensuring that the user does not have to fill profile details the next time he logs in
                             startActivity(new Intent(LoginActivity.this, UserDashboardActivity.class));
-                            /*FirebaseFirestore.getInstance().collection("Personal Profiles").document(mUser.getPhoneNumber()).get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
+                            FirebaseFirestore.getInstance().collection("Personal Profiles").document(mUser.getPhoneNumber()).get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
                                 @Override
                                 public void onComplete(@NonNull Task<DocumentSnapshot> task) {
                                     if (task.isSuccessful()) {
@@ -187,7 +187,7 @@ public class LoginActivity extends AppCompatActivity {
                                         Log.d("LoginActivity", "Failed to fetch Document Snapshot..");
                                     }
                                 }
-                            });*/
+                            });
 
                         } else {
                             ErrorText2.setText("Verifcation Failed" + task.getException());

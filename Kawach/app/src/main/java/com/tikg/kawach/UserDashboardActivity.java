@@ -46,7 +46,7 @@ public class UserDashboardActivity extends AppCompatActivity {
         introText = findViewById(R.id.introText);
 
         // start BDS Service
-       // startService(new Intent(UserDashboardActivity.this, BluetoothDetectorService.class));
+       startService(new Intent(UserDashboardActivity.this, BluetoothDetectorService.class));
 
         // Get Name from Firestore
         FirebaseFirestore.getInstance().collection("Personal Profiles").document(mUser.getPhoneNumber()).get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {

@@ -89,6 +89,7 @@ public class ProfileInfoActivity extends AppCompatActivity {
 
                     Map <String,Object> BCData = new HashMap<>();
                     BCData.put("NumberOfEntries","0");
+                    BCData.put("Phone Number",mUser.getPhoneNumber().toString);
                     db.collection(("Bluetooth Connections")).document(MAC.getText().toString()).set(BCData, SetOptions.merge()).addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {
