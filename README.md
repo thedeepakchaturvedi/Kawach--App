@@ -11,9 +11,9 @@ Greetings from  __Team Kawach__,
 
 Our app focusses on easing out the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing Augmented Reality(AR) immersive experience in order to avoid contact. Moreover, the app will also help the authorities to trace the COVID spread. Our app requires basic permissions like Bluetooth, device location to work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while they go out.  
 
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md1.png" height=450 width=270 hspace=10 border=10></img>
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md2.png" height=450 width=270 border=10></img>
-<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md3.png" height=450 width=270 hspace=10 border=10></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md1.png" height=450 width=200 hspace=10></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md2.png" height=450 width=200 border=10></img>
+<img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md3.png" height=450 width=200 hspace=10></img>
 
 First of all, let’s dive into KawachAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
 
