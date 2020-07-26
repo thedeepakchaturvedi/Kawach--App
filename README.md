@@ -36,7 +36,7 @@ Besides these features, our app is also of great help to the authorities who are
 
 ---
 
-In order to control the onslaught of misinformation, we have equipped the app with a COVID API which gives lives updates of COVID-19 cases both worldwide and country-wide.
+In order to control the onslaught of misinformation, we have equipped the app with a COVID API which gives live updates of COVID-19 cases both worldwide and country-wide.
 
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md4.png" height=500 width=300></img>
 
