@@ -4,7 +4,7 @@ Greetings from  __Team Kawach__,
 
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/Kawach/app/src/main/res/drawable/logokavach.png" height=200 width=200></img>
 
-##### We are very delighted to present our idea in _SigmaHacks 2.0_, hope you like it. Our idea Kawach, an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.
+##### We are very delighted to present our idea in _SigmaHacks 2.0_, hope you like it. Our idea Kawach is an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.
 
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/Android-PNG-HD.png" height=200 width=200></img>
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/pngegg.png" height=200 width=200></img>
