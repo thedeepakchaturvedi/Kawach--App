@@ -9,7 +9,7 @@ Greetings from  __Team Kawach__,
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/Android-PNG-HD.png" height=200 width=200></img>
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/pngegg.png" height=200 width=200></img>
 
-Our app focusses on easing out the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing Augmented Reality(AR) immersive experience in order to avoid contact. Moreover, the app will also help the authorities to trace the COVID spread. Our app requires basic permissions like Bluetooth, device location to work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while they go out.  
+Our app focusses on easing out the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing Augmented Reality(AR) immersive experience in order to avoid contact. Moreover, the app will also help the authorities to trace the COVID spread. Our app requires basic permissions like Bluetooth LE, device location to work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while they go out.  
 
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md1.png" height=450 width=250 hspace=10></img>
 <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/md2.png" height=450 width=250 border=10></img>
